@@ -1,0 +1,141 @@
+{
+  "skills": [
+    {
+      "number": "13",
+      "text": "Возраст начала занятий на скрипке"
+    },
+    {
+      "number": "32",
+      "text": "Концертов отыграл"
+    },
+    {
+      "number": "41",
+      "text": "Максимальное число городов в туре"
+    },
+    {
+      "number": "21",
+      "text": "Лет на сцене в качестве скрипача"
+    }
+  ],
+  "products": [
+    {
+      "src": "./assets/img/products/Work1.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work2.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work3.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work4.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work5.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work6.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work7.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work8.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Work9.jpg",
+      "name": "Вино вдохновение",
+      "price": 600
+    },
+    {
+      "src": "./assets/img/products/Касса МойСклад — Касса №1.png",
+      "name": "Арсен",
+      "price": "123321"
+    },
+    {
+      "src": "./assets/img/products/Касса МойСклад — Касса №1.png",
+      "name": "Арсен",
+      "price": "123321"
+    },
+    {
+      "src": "./upload/a4f83q30827_s300.jpg",
+      "name": "Арсен",
+      "price": "123123"
+    }
+  ],
+  "contacts": [
+    {
+      "name": "arsen",
+      "email": "ariktaraz@gmail.com",
+      "message": "Привет"
+    },
+    {
+      "name": "Арсен",
+      "email": "ariktaraz@gmail.com",
+      "message": "fewfewfe"
+    },
+    {
+      "name": "arsen1337228",
+      "email": "as@mail.ru",
+      "message": "hrtjey"
+    },
+    {
+      "name": "Арсен",
+      "email": "as@mail.ru",
+      "message": "gregre"
+    },
+    {
+      "name": "Арсен",
+      "email": "as@mail.ru",
+      "message": "gregre"
+    },
+    {
+      "name": "Арсен",
+      "email": "ariktaraz@gmail.com",
+      "message": "fwefw"
+    },
+    {
+      "name": "Арсен",
+      "email": "ariktaraz@gmail.com",
+      "message": "frefer"
+    },
+    {
+      "name": "",
+      "email": "",
+      "message": ""
+    },
+    {
+      "name": "",
+      "email": "",
+      "message": ""
+    },
+    {
+      "name": "Арсен",
+      "email": "as@mail.ru",
+      "message": "dwadwa"
+    }
+  ],
+  "users": [
+    {
+      "email": "as@mail.ru",
+      "salt": "9d170dc0637702a3910ef3c650c8cc50",
+      "hash": "5c73b1c0df955d1ca5aacb85e521541e28cdeff73a390b0aadee2e02692f1385204bab443ca0af195111ce80510d63b5ad26fde699f7a73cf1fb645c6d9aa05d2f64045ff8f6350696ae00b2223be336f8c76ef8869b38b3795bea2396bfd320f9ad4947b6d89fa54b303f5a0797e408c591d0f6b778528b87ab7fd56db14cdbac981680b66a98717b9920bc19a6c6ea08cf042d3ed792eef8666036eb3e9928e5733202cae9807b4eb49a801c159a022a3849ad829f20285fce9bd3656116253455856314947fe1f549406bc978a76f3d0bdf56fabd5cb668cffdebfa6fba188888095d9ced6688fc5495935bedeb89c94420f54ba72d2c188f1ca6aaa975231e6b3afbae67e29d40479b437d8d000f9b20de75a0e8a0ec127e339ef82d627c5c1987f4e3172096f8a365c07164848b4d129b85ee588d28416d79ae585d0f15c1a543a3bc73d56088c6240f2334f9b409132c4e21fb183b51b5d5ed276c8dc34299fef8872aff63e8256af03f7a31d218297ee9a82b3db0661f0e07198f4a75f99c1ae6ea3e8661f5dc95a0a1e4cb5bbb9c5dc399751652bff4dd0baa04778b4104b16bd129678b009c148f7f64c024794d61e62668880ba0a5cc250e81305e78018687c6999fcfa2905af48571f80fa94a9b0abd4afe897195110827bf537aa439e573cb00bd135d54fcb6495bef79be3da6de99946d20e4c2153a6475073d"
+    }
+  ]
+}

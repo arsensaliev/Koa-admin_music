@@ -1,0 +1,7 @@
+{
+    "session": {
+        "key": "koa:sess",
+        "maxAge": 60000
+    },
+    "upload": "./public/upload"
+}
