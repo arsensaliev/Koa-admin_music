@@ -52,7 +52,7 @@
     "nodemon": "^2.0.2",
     "normalize.css": "^7.0.0",
     "promptly": "^3.0.3",
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "signale": "^1.4.0"
   }
 }
